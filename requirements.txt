@@ -4,4 +4,5 @@ streamlit
 scikit-learn
 joblib
 matplotlib
+xgboost
 streamlit-option-menu
