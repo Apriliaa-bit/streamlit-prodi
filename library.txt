@@ -6,4 +6,4 @@ sklearn
 joblib
 matplotlib
 pickle
-option-menu
+streamlit-option-menu
