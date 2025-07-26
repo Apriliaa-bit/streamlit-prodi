@@ -4,5 +4,4 @@ streamlit
 scikit-learn
 joblib
 matplotlib
-pickle
 streamlit-option-menu
